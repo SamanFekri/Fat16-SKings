@@ -1,0 +1,6 @@
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\bin\Debug\Fat16.exe.config
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\bin\Debug\Fat16.exe
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\bin\Debug\Fat16.pdb
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\obj\Debug\Fat16.csprojResolveAssemblyReference.cache
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\obj\Debug\Fat16.exe
+c:\users\homayoon\documents\visual studio 2013\Projects\Fat16\Fat16\obj\Debug\Fat16.pdb
